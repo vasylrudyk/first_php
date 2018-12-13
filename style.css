@@ -1,0 +1,34 @@
+.container{
+	border: 1px solid black;
+}
+.header{
+    display:flex;
+    justify-content:space-between;
+}
+.header{
+	background:aqua;
+}
+.content{
+padding: 5px;
+height: 700px;
+border: 1px solid black;
+margin: 5px;
+font-size: 35px;
+background: red;
+}
+#footerBlock{
+	display:flex;
+	justify-content:space-between;	
+	border: 1px solid black;
+}
+.footerFirst{
+	float: left;
+	width: 50%;
+	
+	border: 1px solid black;
+}
+.footerSecond{
+	width: 50%;
+	
+	border: 1px solid black;
+}

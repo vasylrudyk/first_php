@@ -1,0 +1,6 @@
+.header{
+    display:flex;
+}
+.mainImg{
+    justify-content:flex-end;
+ }
